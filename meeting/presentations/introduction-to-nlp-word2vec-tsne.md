@@ -19,6 +19,6 @@ So converting the natural language into embeddings is very important. For this, 
 We are interested in Word2Vec today.
 
 # Reference Links
-[How to get started with word2vec and how to make it work](https://medium.freecodecamp.org/how-to-get-started-with-word2vec-and-then-how-to-make-it-work-d0a2fca9dad3)
-[Word Embedding with Word2Vec and Fasttext](https://towardsdatascience.com/word-embedding-with-word2vec-and-fasttext-a209c1d3e12c)
-[Learn TensorFlow, the Word2Vec model, and the TSNE algorithm using rock bands](https://medium.freecodecamp.org/learn-tensorflow-the-word2vec-model-and-the-tsne-algorithm-using-rock-bands-97c99b5dcb3a)
+- [How to get started with word2vec and how to make it work](https://medium.freecodecamp.org/how-to-get-started-with-word2vec-and-then-how-to-make-it-work-d0a2fca9dad3)
+- [Word Embedding with Word2Vec and Fasttext](https://towardsdatascience.com/word-embedding-with-word2vec-and-fasttext-a209c1d3e12c)
+- [Learn TensorFlow, the Word2Vec model, and the TSNE algorithm using rock bands](https://medium.freecodecamp.org/learn-tensorflow-the-word2vec-model-and-the-tsne-algorithm-using-rock-bands-97c99b5dcb3a)
