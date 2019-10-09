@@ -1600,6 +1600,33 @@ input, select, textarea {
 					background-color: rgba(255, 255, 255, 0.175);
 				}
 
+	.accordion {
+		background-color: transparent;
+		color: #444;
+		width: 100%;
+		border: none;
+		text-align: center;
+		outline: none;
+		transition: 0.4s;
+		line-height: inherit;
+		padding: 10px;
+		white-space: normal;
+		height: auto;
+		}
+		
+		.active, .accordion:hover {
+		background-color: rgba(255, 255, 255, 0.075);
+		}
+		
+		.panel {
+		padding: 0 18px;
+		background-color: transparent;
+		max-height: 0;
+		overflow: hidden;
+		text-align: center;
+		transition: max-height 0.2s ease-out;
+		}
+
 		@media screen and (max-width: 736px) {
 
 			#main article {
