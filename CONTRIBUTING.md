@@ -1,4 +1,4 @@
-# **Welcome to the fossnitrr.github.io first contributions page!**
+# ** Welcome to the fossnitrr.github.io first contributions page! **
 
 Let's help you submit your first Pull Request.
 
